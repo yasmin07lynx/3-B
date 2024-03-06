@@ -1,1 +1,28 @@
+body {
+    background-image: linear-gradient(rgb(37, 82, 231), rgb(6, 182, 6));
+    color: white;
+}
 
+p{
+    font-size: 30px;
+    font-size: bold;
+}
+
+button{
+    background-color: aquamarine;
+    color: white;
+    width: 100px;
+    position: absolute;
+}
+
+.hidden {
+    display: none;
+}
+
+#move{
+    left: 200px;
+}
+
+#change:hover {
+cursor: pointer;
+}
