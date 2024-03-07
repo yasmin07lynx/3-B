@@ -1,28 +1,29 @@
 body {
-    background-color: rgb(143, 143, 233);
+    background-color: pink;
     color: white;
-}
-
-p{
+    padding: 20px;
+  }
+  
+  p {
     font-size: 30px;
-    font-size: bold;
-}
-
-button{
-    background-color: aquamarine;
+    font-weight: bold;
+  }
+  
+  button {
+    background-color: red;
     color: white;
     width: 100px;
     position: absolute;
-}
-
-.hidden {
-    display: none;
-}
-
-#move{
+  }
+  
+  .hidden {
+    display:none;
+  }
+  
+  #move {
     left: 200px;
-}
-
-#change:hover {
-cursor: pointer;
-}
+  }
+  
+  #change:hover {
+    cursor:pointer;
+  }
