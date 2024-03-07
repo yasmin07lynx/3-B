@@ -12,6 +12,10 @@ p{
     font-size: 25px;
     color: rgb(0, 0, 0);
 }
+.escondido{
+    font-size: 20px;
+    color: white;
+}
 
 .amarelo{
     color: rgb(255, 251, 0);
