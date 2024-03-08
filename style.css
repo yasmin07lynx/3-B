@@ -1,18 +1,20 @@
-@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Jacquarda+Bastarda+9&display=swap');
-
 body{
-    background-color: rgb(31, 255, 169);
+    color: aquamarine;
 }
 
-    
-.titulo{
+
+h1{
+    font-size: 100px;
+    color: aliceblue;
+    border: dashed;
+}
+
+p{
     font-size: 50px;
-        border: 5px dashed rgb(0, 0, 0);
-        color: white;
-        font-family: "Dancing Script";
+    color: black;
 }
 
-.video{
-    font-size: 20px;
-    color: rgb(0, 0, 0);
+a{
+    font-size: 30px;
+    color: #000;
 }
