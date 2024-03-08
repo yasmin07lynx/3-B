@@ -3,9 +3,12 @@ body{
 
 }
 h1{
+    font-size: 150px;
     color: aliceblue;
+    border: dashed rgb(15, 168, 179);
 }
 
 .amarelo{
+    font-size: 50px;
     color: black;
 }
